@@ -17,7 +17,7 @@ Tópicos abordados:
 - Decomposição em fatores primos;
 - Máximo Divisor Comum (MDC);
 - Mínimo Múltiplo Comum (MMC);
-- Simplificação e operações com frações. 0
+- Simplificação e operações com frações. 
 
 ---
 
@@ -33,7 +33,7 @@ Tópicos abordados:
 - Subconjuntos;
 - União, interseção e diferença;
 - Conjunto das partes;
-- Complementar de um conjunto. 1
+- Complementar de um conjunto. 
 
 ---
 
@@ -49,7 +49,7 @@ Tópicos abordados:
 - Multiplicação e divisão de polinômios;
 - Teorema do Resto;
 - Método de Briot-Ruffini;
-- Teorema Fundamental da Álgebra. 2
+- Teorema Fundamental da Álgebra. 
 
 ---
 
@@ -65,7 +65,7 @@ Tópicos abordados:
 - Fator comum em evidência;
 - Agrupamento;
 - Técnicas clássicas de fatoração;
-- Relação entre fatoração e raízes de polinômios. 3
+- Relação entre fatoração e raízes de polinômios. 
 
 ---
 
@@ -79,7 +79,7 @@ Tópicos abordados:
 - Fatoração para simplificação;
 - Redução ao mesmo denominador;
 - Adição e subtração de frações algébricas;
-- Operações algébricas envolvendo frações. 4
+- Operações algébricas envolvendo frações. 
 
 ---
 
@@ -95,7 +95,7 @@ Tópicos abordados:
 - Representação gráfica;
 - Funções injetoras, sobrejetoras e bijetoras;
 - Função inversa;
-- Funções pares e ímpares. 5
+- Funções pares e ímpares. 
 
 ---
 
@@ -113,7 +113,7 @@ Tópicos abordados:
 - Reflexões;
 - Translações horizontais e verticais;
 - Interpretação da forma geral
-  `g(x)=A·f(B(x−C))+D`. 6
+  `g(x)=A·f(B(x−C))+D`. 
 
 ---
 
@@ -128,7 +128,7 @@ Tópicos abordados:
 - Interpretação geométrica da inversa;
 - Relação entre exponencial e logaritmo;
 - Logaritmo como inversa da exponencial;
-- Aplicação à derivada de ln(x). 7
+- Aplicação à derivada de ln(x). 
 
 ---
 
@@ -144,7 +144,7 @@ Tópicos abordados:
 - Multiplicidade das raízes;
 - Relação entre grau e quantidade de extremos;
 - Comportamento global dos polinômios;
-- Diagnóstico de gráficos por análise qualitativa. 8
+- Diagnóstico de gráficos por análise qualitativa. 
 
 ---
 
@@ -161,7 +161,7 @@ Tópicos abordados:
 - Mudança de base;
 - Função exponencial;
 - Função logarítmica;
-- Aplicações em crescimento, decaimento e modelagem matemática. 9
+- Aplicações em crescimento, decaimento e modelagem matemática. 
 
 ---
 
