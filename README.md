@@ -19,7 +19,7 @@ Tópicos abordados:
 - Mínimo Múltiplo Comum (MMC);
 - Simplificação e operações com frações. 
 
----
+
 
 ### Aula 02 — Conjuntos e Operações com Conjuntos
 Arquivo: `aula02.pdf`
